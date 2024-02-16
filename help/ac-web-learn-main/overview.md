@@ -4,7 +4,7 @@ description: Adobe Campaign erbjuder en plattform för att utforma kundupplevels
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 24deab035cd5610129f3bb6fe623b7cab611a107
+source-git-commit: 608accefe961294852839ccdf8b64150e77af1b1
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 44%
@@ -26,4 +26,14 @@ Nya videor läggs till regelbundet.
 > Se
 > 
 > * [Självstudiekurser för Campaign Client Console](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html) för vägledning om Campaign Console
-> * [Adobe Campaign webbdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.htm) om du vill ha mer information om användargränssnittet i Campaign Web.
+> * [Adobe Campaign webbdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html) om du vill ha mer information om användargränssnittet i Campaign Web.
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
+</div>
