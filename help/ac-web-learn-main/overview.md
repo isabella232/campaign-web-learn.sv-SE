@@ -1,21 +1,21 @@
 ---
-title: Adobe Campaign webbgränssnitt
+title: Adobe Campaign webbanvändargränssnitt
 description: Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och tillhandahåller en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om Adobe Campaign webbanvändargränssnitt.
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 608accefe961294852839ccdf8b64150e77af1b1
+source-git-commit: 6a3f3844cb5d835b79b1477a59add9c8aea3fe34
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 44%
+source-wordcount: '240'
+ht-degree: 37%
 
 ---
 
-# Adobe Campaign webbgränssnitt
+# Adobe Campaign webbanvändargränssnitt
 
-Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och tillhandahåller en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om Adobe Campaign webbanvändargränssnitt.
+Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och tillhandahåller en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om Adobe Campaign webbanvändargränssnitt. Nya videoklipp läggs till regelbundet.
 
-Nya videor läggs till regelbundet.
+Anpassning av kampanjplattform baserat på affärs- och databehov, och anslutning till andra system hanteras i Campaign-klientkonsolen. Därför kan vissa inställningar och funktioner bara nås, skapas eller hanteras från Campaign-klientkonsolen. Se guiden (Campaign Web and Client Console guide)[https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html] för en översikt över de inställningar och funktioner som kommer att bli aktuella i framtiden.
 
 >[!INFO]
 > 
@@ -24,7 +24,6 @@ Nya videor läggs till regelbundet.
 >
 > De här självstudiekurserna är inte vad du letar efter?
 > Se
-> 
 > * [Självstudiekurser för Campaign Client Console](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html) för vägledning om Campaign Console
 > * [Adobe Campaign webbdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html) om du vill ha mer information om användargränssnittet i Campaign Web.
 
