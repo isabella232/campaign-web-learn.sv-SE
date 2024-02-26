@@ -1,14 +1,14 @@
 ---
 product: adobe campaign
 sub-product: Campaign v8 Web User Interface
-user-guide-title: Adobe Campaign webbgränssnitt
-user-guide-description: Lär dig hur du använder Adobe Campaign webbanvändargränssnitt.
-breadcrumb-title: Webbanvändargränssnitt - Tutorials
+user-guide-title: Adobe Campaign webbanvändargränssnitt
+user-guide-description: Lär dig använda funktionerna i Adobe Campaigns webbanvändargränssnitt.
+breadcrumb-title: Webbanvändargränssnitt – Självstudiekurser
 auto-video-transcripts: true
 source-git-commit: 29188c839c08ca46313c2d9ea1f50bee2083f14b
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 11%
+ht-degree: 41%
 
 ---
 
