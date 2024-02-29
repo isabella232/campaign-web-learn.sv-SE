@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign webbanvändargränssnitt
 user-guide-description: Lär dig använda funktionerna i Adobe Campaigns webbanvändargränssnitt.
 breadcrumb-title: Webbanvändargränssnitt – Självstudiekurser
 auto-video-transcripts: true
-source-git-commit: d8264549fbc342889992378fa51dd0759262ca97
+source-git-commit: 05e775e5cde19d739b60bfe2f66edc72eb1c1de2
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 42%
+source-wordcount: '96'
+ht-degree: 39%
 
 ---
 
@@ -26,6 +26,7 @@ ht-degree: 42%
 + Profiler och målgrupper {#profiles-and-audiences}
    + [Utforska profiler](/help/profiles-and-audiences/explore-profiles.md)
    + [Hantera och bygga målgrupper](/help/profiles-and-audiences/manage-and-build-audiences.md)
+   + [Skapa en målgrupp med Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Arbetsflöden {#workflows}
    + [Skapa ett målinriktat arbetsflöde](/help/workflows/create-a-targeting-workflow.md)
 + [Självstudiekurser för Campaign Client Console](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html)
