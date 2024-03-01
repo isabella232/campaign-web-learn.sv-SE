@@ -1,17 +1,17 @@
 ---
-title: Adobe Campaign webbgränssnitt - Tutorials
+title: Adobe Campaign självstudiekurser för webbanvändargränssnitt
 description: Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och tillhandahåller en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om Adobe Campaign webbanvändargränssnitt.
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 74d78d04b6e7ad3c2f631a5f01a9bd5ff8061bd3
+source-git-commit: 9a413682a42f04dd3e36fce70ae34b11897b460c
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 29%
 
 ---
 
-# Adobe Campaign webbgränssnitt - Tutorials
+# Adobe Campaign självstudiekurser för webbanvändargränssnitt
 
 Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och tillhandahåller en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om Adobe Campaign webbanvändargränssnitt. Nya videoklipp läggs till regelbundet.
 
