@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign webbanvändargränssnitt
 user-guide-description: Lär dig använda funktionerna i Adobe Campaigns webbanvändargränssnitt.
 breadcrumb-title: Webbanvändargränssnitt – Självstudiekurser
 auto-video-transcripts: true
-source-git-commit: aa26b99fa3ed3f1aad7c2ef684ec8fc7e27daa21
+source-git-commit: 42bc130ee440c3967e5361229a4458689076298d
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 32%
@@ -31,6 +31,6 @@ ht-degree: 32%
 + Arbetsflöden {#workflows}
    + [Skapa ett målinriktat arbetsflöde](/help/workflows/create-a-targeting-workflow.md)
 + Experience League Live-inspelningar {#exl-live-recordings}
-   + [Ligger steget före med nya Adobe Campaign webbgränssnitt](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html)
-+ [Självstudiekurser för Campaign Client Console](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html)
+   + [Ligger steget före med nya Adobe Campaign webbgränssnitt](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html){target="_blank"}
++ [Självstudiekurser för Campaign Client Console](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html){target="_blank"}
 
